@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1572440623 source:c:\users\rareeeees\desktop\faculta\poo\teme\proiect1\persoane\main.cpp
+	<iostream>
+	"Persoana.h"
+	"Baza_de_date.h"
+	"Meniu.h"
+
+1572439411 c:\users\rareeeees\desktop\faculta\poo\teme\proiect1\persoane\persoana.h
+	<bits/stdc++.h>
+
+1572440350 c:\users\rareeeees\desktop\faculta\poo\teme\proiect1\persoane\baza_de_date.h
+	<bits/stdc++.h>
+	"Persoana.h"
+
+1572440638 c:\users\rareeeees\desktop\faculta\poo\teme\proiect1\persoane\meniu.h
+	<bits/stdc++.h>
+	"Baza_de_date.h"
+
+1572440404 source:c:\users\rareeeees\desktop\faculta\poo\teme\proiect1\persoane\baza_de_date.cpp
+	"Baza_de_date.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1572440676 source:c:\users\rareeeees\desktop\faculta\poo\teme\proiect1\persoane\meniu.cpp
+	"Meniu.h"
+	<iostream>
+	<bits/stdc++.h>
+
