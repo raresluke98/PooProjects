@@ -8,7 +8,7 @@ using namespace std;
 class Examen{
 private:
     int static idCurent;
-    int idExamen;//declarat static pentru incrementare in constructor
+    int idExamen;
     string denumireExamen;
     int notaScrisExamen;
     int notaOralPartial;
